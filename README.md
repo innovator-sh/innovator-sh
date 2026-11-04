@@ -25,7 +25,7 @@ PORT      STATE  SERVICE        VERSION
 1337/tcp  open   build          ships weekly
 31337/tcp open   experiments    here be dragons 🐉
 
-Service detection performed. 0 vulnerabilities in my attitude.
+Scan complete. The most exploitable surface is still the human mind.
 root@innovator:~# _
 ```
 
@@ -33,11 +33,7 @@ root@innovator:~# _
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,nodejs,html,css,react,nextjs,latex,fastapi,flask,spring,mysql,postgres,sqlite,mongodb,supabase,firebase,redis,kafka,solidity,docker,kubernetes,terraform,vercel,heroku,aws,grafana,prometheus,git,github,vscode,githubactions,visualstudio,tensorflow,pytorch,arduino,obsidian,figma,gcp,linux,kali,bash&theme=dark&perline=12" alt="Tech and tools" />
-</a>
-
-<img src="assets/extra-icons.svg" alt="More tools: Claude Code, ethers.js, Polygon, MQTT, Railway, Colab, Tinkercad" />
+<img src="assets/tech-stack.svg" alt="Tech and tools: languages, frameworks, data, cloud/devops, web3 + iot, ai/ml, tools + os" width="100%" />
 
 </div>
 
