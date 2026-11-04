@@ -84,12 +84,7 @@ root@innovator:~# _
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovator-sh&theme=radical" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovator-sh&theme=radical" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovator-sh&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=innovator-sh&theme=radical" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=innovator-sh&theme=radical" alt="Top languages by commit" />
 </p>
 
 <p align="center">
