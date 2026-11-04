@@ -51,7 +51,7 @@ root@innovator:~# _
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/innovator-sh/vidyaai">VidyaAI</a></h3>
-      <p align="center">Morpheus – recursive impact</p>
+      <p align="center">VidyaAI is an RAG AI tutor that answers questions from students</p>
       <p align="center">
         <a href="https://github.com/innovator-sh/vidyaai/stargazers"><img src="https://img.shields.io/github/stars/innovator-sh/vidyaai?style=social&label=Stars" alt="Stars" /></a>
         <img src="https://img.shields.io/github/languages/top/innovator-sh/vidyaai?style=flat&label=top%20lang&labelColor=0a0f0d&color=3178C6" alt="Language" />
