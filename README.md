@@ -31,11 +31,55 @@ root@innovator:~# _
 
 ## 🛰️ Tech and Tools I use
 
-<div align="center">
-
-<img src="assets/tech-stack.svg" alt="Tech and tools" width="720" />
-
-</div>
+<p align="center">
+  <img src="assets/icons/py.svg" alt="py" width="60" height="60" />
+  <img src="assets/icons/java.svg" alt="java" width="60" height="60" />
+  <img src="assets/icons/c.svg" alt="c" width="60" height="60" />
+  <img src="assets/icons/cpp.svg" alt="cpp" width="60" height="60" />
+  <img src="assets/icons/js.svg" alt="js" width="60" height="60" />
+  <img src="assets/icons/ts.svg" alt="ts" width="60" height="60" />
+  <img src="assets/icons/html.svg" alt="html" width="60" height="60" />
+  <img src="assets/icons/css.svg" alt="css" width="60" height="60" />
+  <img src="assets/icons/latex.svg" alt="latex" width="60" height="60" />
+  <img src="assets/icons/solidity.svg" alt="solidity" width="60" height="60" />
+  <img src="assets/icons/bash.svg" alt="bash" width="60" height="60" />
+  <img src="assets/icons/react.svg" alt="react" width="60" height="60" />
+  <img src="assets/icons/nextjs.svg" alt="nextjs" width="60" height="60" />
+  <img src="assets/icons/nodejs.svg" alt="nodejs" width="60" height="60" />
+  <img src="assets/icons/fastapi.svg" alt="fastapi" width="60" height="60" />
+  <img src="assets/icons/flask.svg" alt="flask" width="60" height="60" />
+  <img src="assets/icons/mysql.svg" alt="mysql" width="60" height="60" />
+  <img src="assets/icons/postgres.svg" alt="postgres" width="60" height="60" />
+  <img src="assets/icons/sqlite.svg" alt="sqlite" width="60" height="60" />
+  <img src="assets/icons/mongodb.svg" alt="mongodb" width="60" height="60" />
+  <img src="assets/icons/supabase.svg" alt="supabase" width="60" height="60" />
+  <img src="assets/icons/firebase.svg" alt="firebase" width="60" height="60" />
+  <img src="assets/icons/docker.svg" alt="docker" width="60" height="60" />
+  <img src="assets/icons/vercel.svg" alt="vercel" width="60" height="60" />
+  <img src="assets/icons/heroku.svg" alt="heroku" width="60" height="60" />
+  <img src="assets/icons/railway.svg" alt="railway" width="60" height="60" />
+  <img src="assets/icons/githubactions.svg" alt="githubactions" width="60" height="60" />
+  <img src="assets/icons/ethers.svg" alt="ethers" width="60" height="60" />
+  <img src="assets/icons/polygon.svg" alt="polygon" width="60" height="60" />
+  <img src="assets/icons/arduino.svg" alt="arduino" width="60" height="60" />
+  <img src="assets/icons/mqtt.svg" alt="mqtt" width="60" height="60" />
+  <img src="assets/icons/tinkercad.svg" alt="tinkercad" width="60" height="60" />
+  <img src="assets/icons/tensorflow.svg" alt="tensorflow" width="60" height="60" />
+  <img src="assets/icons/pytorch.svg" alt="pytorch" width="60" height="60" />
+  <img src="assets/icons/ultralytics.svg" alt="ultralytics" width="60" height="60" />
+  <img src="assets/icons/bytetrack.svg" alt="bytetrack" width="60" height="60" />
+  <img src="assets/icons/tesseract.svg" alt="tesseract" width="60" height="60" />
+  <img src="assets/icons/pandas.svg" alt="pandas" width="60" height="60" />
+  <img src="assets/icons/git.svg" alt="git" width="60" height="60" />
+  <img src="assets/icons/github.svg" alt="github" width="60" height="60" />
+  <img src="assets/icons/vscode.svg" alt="vscode" width="60" height="60" />
+  <img src="assets/icons/visualstudio.svg" alt="visualstudio" width="60" height="60" />
+  <img src="assets/icons/obsidian.svg" alt="obsidian" width="60" height="60" />
+  <img src="assets/icons/figma.svg" alt="figma" width="60" height="60" />
+  <img src="assets/icons/claude.svg" alt="claude" width="60" height="60" />
+  <img src="assets/icons/googlecolab.svg" alt="googlecolab" width="60" height="60" />
+  <img src="assets/icons/linux.svg" alt="linux" width="60" height="60" />
+</p>
 
 ## 🚀 Featured Projects
 
