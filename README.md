@@ -33,7 +33,7 @@ root@innovator:~# _
 
 <div align="center">
 
-<img src="assets/tech-stack.svg" alt="Tech and tools: languages, frameworks, data, cloud/devops, web3 + iot, ai/ml, tools + os" width="100%" />
+<img src="assets/tech-stack.svg" alt="Tech and tools" width="720" />
 
 </div>
 
